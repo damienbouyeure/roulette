@@ -1,0 +1,18 @@
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\bin\Debug\Roule.exe.config
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\bin\Debug\Roule.exe
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\bin\Debug\Roule.pdb
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\obj\Debug\Roule.csprojResolveAssemblyReference.cache
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\obj\Debug\Roule.Form1.resources
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\obj\Debug\Roule.Properties.Resources.resources
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\obj\Debug\Roule.csproj.GenerateResource.Cache
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\obj\Debug\Roule.exe
+c:\users\damie\onedrive\documents\visual studio 2017\Projects\Roule\Roule\obj\Debug\Roule.pdb
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\bin\Debug\Roule.exe.config
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\bin\Debug\Roule.exe
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\bin\Debug\Roule.pdb
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\obj\Debug\Roule.csprojResolveAssemblyReference.cache
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\obj\Debug\Roule.Form1.resources
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\obj\Debug\Roule.Properties.Resources.resources
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\obj\Debug\Roule.csproj.GenerateResource.Cache
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\obj\Debug\Roule.exe
+F:\Nouveau dossier (2)\Visual Studio 2017\Projects\Roule\Roule\obj\Debug\Roule.pdb
